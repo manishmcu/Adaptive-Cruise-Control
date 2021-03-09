@@ -6,20 +6,20 @@ Case 1:
 Distance is same between sensor and next car for specific time period, then screenshot of serial monitor is below
 
 
-<img src="acc images/case1.png" height=290>
+<img src="acc images/case1.png" height=435>
 
 Case 2: 
 
 Distance is increasing between sensor and next car for specific time period, then screenshot of serial monitor is below
 
 
-<img src="acc images/case2.png" height=290>
+<img src="acc images/case2.png" height=435>
 
 Case 3: 
 
 Distance is decreasing between sensor and next car for specific time period, then screenshot of serial monitor is below
 
-<img src="acc images/case3.png" height=290>
+<img src="acc images/case3.png" height=435>
 
 
 <img src="acc images/adaptive cruice control.jpg" height=290>
