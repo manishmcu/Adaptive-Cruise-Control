@@ -1,4 +1,4 @@
-# Adaptive-Cruise-Control
+## Adaptive-Cruise-Control
 Adaptive_cruise_control testing on #bike #sucessful... The sensor module can detect speed of car in front your car/bike and take action accordingly. Autonomous speed control &amp; breaking system. One step ahead for #ebikes
 
 Case 1: 
@@ -21,5 +21,6 @@ Distance is decreasing between sensor and next car for specific time period, the
 
 <img src="acc images/case3.png" height=435>
 
+### Testing on a Bike, and it is working properly
 
 <img src="acc images/adaptive cruice control.jpg" height=290>
